@@ -1,34 +1,38 @@
 # Bayesian Inference and Computation
 
 ## Lab 1 Monte Carlo Estimation and Posteriors.
-* **Simple Monte Carlo estimation**
-* **Advantages/disadvantages of performing statistical analyses using the algebraically exact approach**
-* **Buffon’s Needle**
+* Simple Monte Carlo estimation
+* Advantages/disadvantages of performing statistical analyses using the algebraically exact approach
+* Buffon’s Needle
 
 ## Lab 2 Inversion Sampling.
-* **Inverse transform method**
-* **Probability integral transform method**
+* Inverse transform method
+* Probability integral transform method
 
 ## Lab 3 Rejection sampling.
-* **Rejection sampling**
-* **Importance sampling**
-* **Monte Carlo integration**
-* **Monte Carlo sample variance**
+* Rejection sampling
+* Importance sampling
+* Monte Carlo integration
+* Monte Carlo sample variance
 
 ## Lab 4 Importance sampling.
-* **Importance sampling**
-* **Weights variance through Effective Sample Size (ESS)**
-* **Sequential importance sampling**
+* Importance sampling
+* Weights variance through Effective Sample Size (ESS)
+* Sequential importance sampling
 
 ## Lab 5 Gibbs sampling.
-* **Gibbs sampling**
-* **Convergence Diagnostics**
-* **Reparameterisation**
+* Gibbs sampling
+* Convergence Diagnostics
+* Reparameterisation
 
 ## Lab 6 Metropolis-Hasting.
-* **Gibbs sampling**
-* **Independence Metropolis-Hasting**
-* **Random-Walk Metropolis-Hastings**
+* Gibbs sampling
+* Independence Metropolis-Hasting
+* Random-Walk Metropolis-Hastings
+
+## Lab 7 Bayes Factors.
+* Bayes Factor only by Monte Carlo integration
+* Bayes Factor based on an importance sampling 
 
 ## Author
 
